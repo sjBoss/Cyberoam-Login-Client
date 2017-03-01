@@ -10,11 +10,11 @@ Build Instructions :
   
   python3 cyberroam.py
   
-  save to save login details
+  "save" to save login details
   
   auto enables you to login simply by cicking "auto" button, after having saved your details.
   
-  "Login" button to simple login ( requires that you have some entered information in the labels)
+  "Login" button for simple login ( requires that you have some entered information in the labels)
   
   Status of login is displayed in the top-right corner of the window ( incorrect login details, data limit exceeded,Logged in)
   
