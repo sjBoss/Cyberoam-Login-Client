@@ -5,7 +5,9 @@ This application enables you to easily login to your cyberroam account and acces
 
 Build Instructions :
   Save all the files in a single directory( lets say Dir)
+  
   Open terminal and navigate to Dir
+  
   python3 cyberroam.py
   
   save to save login details
