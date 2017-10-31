@@ -6,17 +6,17 @@ This application enables you to easily login to your cyberroam account and acces
 Build Instructions :
   Save all the files in a single directory( lets say Dir)
   
-  Open terminal and navigate to Dir
+  Open terminal and navigate to Dir.
   
-  python3 cyberroam.py
+  python3 cyberroam.py.
   
-  "save" to save login details
+  "save" to save login details.
   
   auto enables you to login simply by cicking "auto" button, after having saved your details.
   
-  "Login" button for simple login ( requires that you have some entered information in the labels)
+  "Login" button for simple login ( requires that you have some entered information in the labels).
   
-  Status of login is displayed in the top-right corner of the window ( incorrect login details, data limit exceeded,Logged in)
+  Status of login is displayed in the top-right corner of the window ( incorrect login details, data limit exceeded,Logged in).
   
   Enjoy!!
  
